@@ -1,0 +1,105 @@
+html{
+    background-color: black;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333
+      
+
+
+}
+
+
+p{
+    color: aliceblue;
+    align-content: center;
+    
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+    
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #A67C00;}
+center{color: aliceblue;}
+
+html { 
+  background: url("13919.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+
+center {
+    color:#A67C00;
+    
+}
+
+u{
+ color:#A67C00;    
+}
+
+div{
+    background-color: #D3D3D3;
+    width: 700px;
+    height: 250px;
+    border-radius: 25px;
+    -webkit-transition: width 1s; /* For Safari 3.1 to 6.0 */
+    transition: width 1s;}
+    
+ 
+div:hover{
+    width: 800px;}
+#c{
+float: right
+}
+
+.pic{
+    align-content: center;
+    border-width: thick;
+    width: 650px;
+    height: 405px;
+    
+}
+
+footer{
+    left: 500px;
+    bottom: -100px;
+}
+
+#boy{
+    float: right;
+}
+
+marquee{
+      color: darkred;
+}
+
+
+
+
+
+
+
+
+
+
+
