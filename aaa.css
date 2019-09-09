@@ -58,7 +58,7 @@ u{
 }
 
 div{
-    background-color: #D3D3D3;
+    background-color: #000000;
     width: 700px;
     height: 250px;
     border-radius: 25px;
@@ -80,18 +80,32 @@ float: right
     
 }
 
-footer{
-    left: 500px;
-    bottom: -100px;
-}
+
 
 #boy{
     float: right;
 }
 
 marquee{
-      color: darkred;
+      color:  #D3D3D3;
 }
+
+#fade
+{
+        opacity:1;
+}
+#fade:hover
+{
+        background-color:#000000
+}
+
+#cama:hover{
+    opacity: 0.5;
+}
+
+
+
+
 
 
 
