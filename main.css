@@ -16,6 +16,7 @@ ul {
 p{
     color: aliceblue;
     align-content: center;
+    color:#A67C00;
     
 }
 li {
@@ -43,14 +44,6 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-
-
-
-
-P {
-    color:#A67C00;
-    
 }
 
 u{
