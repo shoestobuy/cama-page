@@ -35,7 +35,7 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #A67C00;}
-center{color: aliceblue;}
+
 
 html { 
   background: url("assets/images/background.jpg") no-repeat center center fixed; 
