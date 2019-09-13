@@ -48,7 +48,7 @@ html {
 
 
 
-center {
+P {
     color:#A67C00;
     
 }
@@ -102,6 +102,15 @@ marquee{
 #cama:hover{
     opacity: 0.5;
 }
+
+.gold {
+   color:#A67C00; 
+}
+
+
+
+
+
 
 
 
