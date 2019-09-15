@@ -55,7 +55,8 @@ div{
     height: 250px;
     border-radius: 25px;
     -webkit-transition: width 1s; /* For Safari 3.1 to 6.0 */
-    transition: width 1s;}
+    transition: width 1s;
+font-family: 'Abril Fatface', cursive;}
     
  
 div:hover{
@@ -98,6 +99,7 @@ marquee{
 .gold {
    color:#A67C00; 
 }
+
 
 
 
