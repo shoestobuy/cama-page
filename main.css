@@ -51,7 +51,7 @@ u{
 
 div{
     background-color: #000000;
-    width: 700px;
+    width: 750px;
     height: 250px;
     border-radius: 25px;
     -webkit-transition: width 1s; /* For Safari 3.1 to 6.0 */
@@ -103,6 +103,10 @@ marquee{
 
 h1{
     color:#A67C00;
+}
+
+#d:hover{
+    opacity: 0.5;
 }
 
 
