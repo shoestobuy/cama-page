@@ -1,130 +1,104 @@
-html{
+html {
     background-color: black;
 }
+
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333
-      
-
-
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333
 }
 
-
-p{
+p {
     align-content: center;
-    color:#A67C00;
-    
+    color: #A67C00;
 }
+
 li {
-  float: left;
+    float: left;
 }
 
 li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  
-    
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 /* Change the link color to #111 (black) on hover */
+
 li a:hover {
-    background-color: #A67C00;}
-
-
-html { 
-  background: url("assets/images/background.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background-color: #A67C00;
 }
 
-u{
- color:#A67C00;    
+html {
+    background: url("assets/images/background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
-div{
+u {
+    color: #A67C00;
+}
+
+div {
     background-color: #000000;
     width: 750px;
     height: 250px;
     border-radius: 25px;
-    -webkit-transition: width 1s; /* For Safari 3.1 to 6.0 */
+    -webkit-transition: width 1s;
+    /* For Safari 3.1 to 6.0 */
     transition: width 1s;
     font-family: 'Monda', sans-serif;
 }
-    
- 
-div:hover{
-    width: 800px;}
-#c{
-float: right
+
+div:hover {
+    width: 800px;
 }
 
-.pic{
+#c {
+    float: right
+}
+
+.pic {
     align-content: center;
     border-width: thick;
     width: 650px;
     height: 405px;
-    
 }
 
-
-
-#boy{
+#boy {
     float: right;
 }
 
-marquee{
-      color:  #D3D3D3;
+marquee {
+    color: #D3D3D3;
 }
 
-#fade
-{
-        opacity:1;
-}
-#fade:hover
-{
-        background-color:#000000
+#fade {
+    opacity: 1;
 }
 
-#cama:hover{
+#fade:hover {
+    background-color: #000000
+}
+
+#cama:hover {
     opacity: 0.5;
 }
 
 .gold {
-   color:#A67C00; 
+    color: #A67C00;
 }
 
-h1{
-    color:#A67C00;
+h1 {
+    color: #A67C00;
 }
 
-#d:hover{
+#d:hover {
     opacity: 0.5;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
